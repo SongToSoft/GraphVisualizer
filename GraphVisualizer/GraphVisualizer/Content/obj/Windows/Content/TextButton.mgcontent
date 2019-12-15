@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/TextButton.spritefont</SourceFile>
+  <SourceTime>2019-12-11T02:35:53.0843358+10:00</SourceTime>
+  <DestFile>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/bin/Windows/Content/TextButton.xnb</DestFile>
+  <DestTime>2019-12-14T15:23:33.7520135+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-09T02:35:54+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
