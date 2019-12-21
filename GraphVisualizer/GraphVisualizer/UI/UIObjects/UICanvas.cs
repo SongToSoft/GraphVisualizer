@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿using GraphVisualizer;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
@@ -36,6 +37,10 @@ namespace UIProjectExample
                 if (objects[i] is UIButton)
                 {
                     (objects[i] as UIButton).Update();
+                }
+                if (objects[i] is UIGraph)
+                {
+                    (objects[i] as UIGraph).Update();
                 }
             }
         }

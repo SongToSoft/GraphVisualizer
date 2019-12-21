@@ -41,8 +41,7 @@ namespace GraphVisualizer
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-
-
+            SceneManager.Update();
             base.Update(gameTime);
         }
 

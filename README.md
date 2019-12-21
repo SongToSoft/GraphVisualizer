@@ -1,2 +1,2 @@
 # GraphVisualizer
-GraphVisualizer - program for graph visualizer 
+GraphVisualizer - program for graph visualization.

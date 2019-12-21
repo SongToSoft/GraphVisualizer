@@ -51,6 +51,7 @@ namespace UIProjectExample
         {
             textScale = _textScale;
         }
+
         public override void Draw(SpriteBatch spriteBatch)
         {
             if (IsVisible())

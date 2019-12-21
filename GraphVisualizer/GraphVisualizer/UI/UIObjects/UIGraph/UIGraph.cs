@@ -25,10 +25,15 @@ namespace GraphVisualizer
                 {
                     if (graph.GetVertex(i).CheckEdge(j))
                     {
-                        edges.Add(new UIEdge(vertexes[i], vertexes[j]));
+                        AddEdge(i, j);
                     }
                 }
             }
+        }
+
+        public void AddEdge(int start, int end)
+        {
+            edges.Add(new UIEdge(vertexes[start], vertexes[end]));
         }
 
         public override void Draw(SpriteBatch spriteBatch)
@@ -40,6 +45,14 @@ namespace GraphVisualizer
             for (int i = 0; i < vertexes.Count; ++i)
             {
                 vertexes[i].Draw(spriteBatch);
+            }
+        }
+
+        public void Update()
+        {
+            for (int i = 0; i < vertexes.Count; ++i)
+            {
+                vertexes[i].Update();
             }
         }
     }

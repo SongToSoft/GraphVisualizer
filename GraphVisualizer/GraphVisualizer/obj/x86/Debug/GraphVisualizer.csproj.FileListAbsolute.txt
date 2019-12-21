@@ -27,3 +27,4 @@ C:\Users\Admin\source\repos\GraphVisualizer\GraphVisualizer\bin\Windows\x86\Debu
 C:\Users\Admin\source\repos\GraphVisualizer\GraphVisualizer\bin\Windows\x86\Debug\Content\Text.xnb
 C:\Users\Admin\source\repos\GraphVisualizer\GraphVisualizer\bin\Windows\x86\Debug\Content\TextButton.xnb
 C:\Users\Admin\source\repos\GraphVisualizer\GraphVisualizer\bin\Windows\x86\Debug\Content\RedCircle.xnb
+C:\Users\Admin\source\repos\GraphVisualizer\GraphVisualizer\bin\Windows\x86\Debug\Content\Circle.xnb

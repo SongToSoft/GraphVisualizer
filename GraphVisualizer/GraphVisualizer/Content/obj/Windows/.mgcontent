@@ -4,12 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/Circle.png</File>
     <File>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/Point.png</File>
     <File>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/RedCircle.png</File>
     <File>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/Text.spritefont</File>
     <File>C:/Users/Admin/source/repos/GraphVisualizer/GraphVisualizer/Content/TextButton.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

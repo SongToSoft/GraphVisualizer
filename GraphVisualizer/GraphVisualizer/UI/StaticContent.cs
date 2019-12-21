@@ -23,7 +23,7 @@ namespace UIProjectExample
         static public void LoadContent(ContentManager content)
         {
             TexturePoint = content.Load<Texture2D>("Point");
-            TextureGraphVertex = content.Load<Texture2D>("RedCircle");
+            TextureGraphVertex = content.Load<Texture2D>("Circle");
             SFText = content.Load<SpriteFont>("Text");
             SFTextButton = content.Load<SpriteFont>("TextButton");
         }
